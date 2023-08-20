@@ -1,0 +1,108 @@
+B R I C K  W O R K S H O P  V0.2.0.0
+
+0 0 0
+0.14 0.14 0.14 1
+0 0 0
+300
+600
+
+75 75 0 50 50 1 0.09 0.09 0.09 1
+	+NAME Plate1
+-125 75 0 50 50 1 0.09 0.09 0.09 1
+	+NAME Plate2
+-125 -125 0 50 50 1 0.09 0.09 0.09 1
+	+NAME Plate3
+75 -125 0 50 50 1 0.09 0.09 0.09 1
+	+NAME Plate4
+75 -25 0 50 50 1 0.09 0.09 0.09 1
+	+NAME Plate5
+-25 -25 0 50 50 1 0.09 0.09 0.09 1
+	+NAME Plate6
+-125 -25 0 50 50 1 0.09 0.09 0.09 1
+	+NAME Plate7
+-25 -125 0 50 50 1 0.09 0.09 0.09 1
+	+NAME Plate8
+-25 75 0 50 50 1 0.09 0.09 0.09 1
+	+NAME Plate9
+49.5 100.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+49.5 49.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+98 49.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+-4.25 49.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+139.75 137.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+53 141.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+101.5 140.25 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+141.5 101.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+136.5 56.25 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+138.5 -5.25 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+99 -49.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+138.75 -51.75 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+58.75 -0.25 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+57.5 -51.25 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+58.75 -104.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+64.5 -139.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+107 -137.75 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+141 -134.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+142 -101.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+0.75 -140.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+-4.5 -62.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+-53.75 -112.25 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+-53.5 -145.75 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+-57.25 -66.25 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+-56.25 -6 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+-54.5 53.75 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+-50.75 103.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+-8.25 140.25 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+-53.75 139 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+-101.25 137 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+-134.75 133.75 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+-138.75 95.75 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+-140.75 54 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+-108 55 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+-141 -2.75 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+-138.5 -49.25 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+-99.75 -49 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+-137.75 -95.75 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+-137 -138.25 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+-99.5 -138 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+-150 -150 -1 300 300 1 0.09 0.09 0.09 0
+	+NAME BaseplateLol

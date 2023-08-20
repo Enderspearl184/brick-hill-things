@@ -1,0 +1,24 @@
+The Classic Happy Home from ROBLOX.
+
+I used a slightly modified cheats v2 and also SmartLion's bbtools
+
+List of commands below:
+
+/size plr number - Requires owning https://www.brick-hill.com/shop/147324
+/infjump plr - toggles whether the player can jump in the air or not.
+/control plr - control a player. If no player is specified, uncontrols the player, or returns control to you.
+/reset - respawns you 
+/paint hex - changes color of bricks you place.
+/kill plr
+/tp plr/xyz
+/speed plr num
+/jump plr num
+/weather env - sets the weather of the Game (sun,snow,rain)
+/freeze plr - freezes the player.
+/thaw plr - thaws the player. *NOTE can't thaw a player that is not frozen.
+/av id or reset - sets your avatar id to the specified one. say /av reset to reset your avatar
+/server msg - sends a server message
+/tpme plr - teleports said player to you.
+/ambient color - hexadecimal
+/sky color - hexadecimal
+/team name - pretty useless but changes your chat color randomly

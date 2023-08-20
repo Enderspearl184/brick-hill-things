@@ -1,0 +1,104 @@
+B R I C K  W O R K S H O P  V0.2.0.0
+
+0 0 0
+0.14 0.51 0.2 1
+0.49 0.7 0.9
+57
+300
+
+-25 -33 0 32.75 8 15.75 0.33 0.29 0.17 1
+	+NAME New Brick
+25 -29.25 0 10 57.25 15.75 0.33 0.29 0.17 1
+	+NAME New Brick - Copy
+	+ROT 270
+-25 18 0 50 10 15.75 0.33 0.29 0.17 1
+	+NAME New Brick - Copy
+0.25 -25 0 7.5 31 15.75 0.33 0.29 0.17 1
+	+NAME New Brick
+-35 -33 0 10 61 15.75 0.33 0.29 0.17 1
+	+NAME New Brick - Copy - Copy
+	+ROT 270
+15.25 -20 -0.25 4 4 0.5 1 1 1 1
+	+NAME Checkpoint1
+	+SHAPE spawnpoint
+7.75 -6 0 17.25 2 1.25 0.14 0.92 1 1
+	+NAME kill
+-3.25 10.25 0 3.5 3.75 0.5 0.14 0.92 1 1
+	+NAME kill - Copy
+19.25 13 0 3.5 3.75 0.5 0.14 0.92 1 1
+	+NAME kill - Copy - Copy
+-18.5 5.25 0 3.5 3.75 0.5 0.14 0.92 1 1
+	+NAME kill - Copy - Copy - Copy
+-25 -4 0 25.25 2 1.25 0.14 0.92 1 1
+	+NAME kill - Copy
+-16 -13 0 3.5 3.75 0.5 0.14 0.92 1 1
+	+NAME kill - Copy - Copy - Copy - Copy
+-20.25 -20.75 0 3.5 3.75 0.5 0.14 0.92 1 1
+	+NAME kill - Copy - Copy - Copy - Copy - Copy
+-10 -25 0 7 3 6.25 0.97 1 0 1
+	+NAME New Brick
+-5.25 -25 0 5.75 4.75 11 0 0.34 1 1
+	+NAME New Brick - Copy
+-3.75 -22 0 4 6.5 3.75 1 0.05 0 1
+	+NAME New Brick - Copy
+-16 -29.25 15.5 3.5 3.75 0.5 0.14 0.92 1 1
+	+NAME kill - Copy - Copy - Copy - Copy - Copy
+-35 -19.75 15.5 10 4 0.5 0.14 0.92 1 1
+	+NAME kill - Copy - Copy - Copy - Copy - Copy - Copy
+-56 0.5 13.25 21 4 2.5 0.4 0.4 0.4 1
+	+NAME new Brick
+-65 -3.5 13.25 9 12.25 2.5 0.4 0.4 0.4 1
+	+NAME new Brick - Copy
+-62.5 1 15.75 3 3 1 0.4 0 0.03 1
+	+NAME PerfectRunBrick
+-29.5 -6.5 15.5 3.5 15 0.5 0.14 0.92 1 1
+	+NAME kill - Copy - Copy - Copy - Copy - Copy - Copy
+89 -14 21 25 30 4 0 0.65 0.19 1
+	+NAME New Brick - Copy - Copy - Copy - Copy
+92.75 -0.75 24.5 6 6 1 0 0.38 1 1
+	+NAME dns
+93.75 0.25 25.5 4 4 0.5 1 1 0.99 1
+	+NAME Checkpoint2
+114.25 -59 22 72 82.25 1 0.17 0.19 0 1
+	+NAME New Brick - Copy
+114.25 -59 23 72 82.25 1 0 0.59 1 1.07
+	+NAME kill
+120 -1.75 24 3.75 8.5 1 0.33 0.29 0.17 1
+	+NAME New Brick
+128.25 -1.25 24 3.75 8.5 1 0.33 0.29 0.17 1
+	+NAME New Brick - Copy
+131.5 10.25 24 1 1 4 0.33 0.29 0.17 1
+	+NAME New Brick - Copy - Copy
+136 9.75 24 1 1 7 0.33 0.29 0.17 1
+	+NAME New Brick - Copy - Copy - Copy
+138.5 13.75 24 1 1 9.75 0.33 0.29 0.17 1
+	+NAME New Brick - Copy - Copy - Copy - Copy
+144.5 10.5 24 1 1 13.5 0.33 0.29 0.17 1
+	+NAME New Brick - Copy - Copy - Copy - Copy - Copy
+136.25 -6.25 24 7 8.5 1 0.33 0.29 0.17 1
+	+NAME New Brick - Copy - Copy
+149.75 -11.75 24 7 8.5 1 0.33 0.29 0.17 1
+	+NAME New Brick - Copy - Copy - Copy
+160.75 -8.5 24 3 4.5 1 0.33 0.29 0.17 1
+	+NAME New Brick - Copy - Copy - Copy - Copy
+167.25 -4.5 24 3 4.5 1 0.33 0.29 0.17 1
+	+NAME New Brick - Copy - Copy - Copy - Copy - Copy
+174.25 0.25 24 3 4.5 4.75 0.33 0.29 0.17 1
+	+NAME New Brick - Copy - Copy - Copy - Copy - Copy - Copy
+185.75 -68.75 21.75 10 92 23.25 0.33 0.29 0.17 1
+	+NAME New Brick - Copy - Copy
+	+ROT 270
+150.5 14.75 24 0.5 0.75 19.75 0.33 0.29 0.17 1
+	+NAME New Brick - Copy - Copy - Copy - Copy - Copy - Copy
+145.5 19.25 24 0.5 0.75 27.5 0.33 0.29 0.17 1
+	+NAME New Brick - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+184.75 -35 45 11 21.75 1 0 0.5882353 1 1
+	+NAME kill
+114 -68.75 21.75 71.75 9.25 23.25 0.33 0.29 0.17 1
+	+NAME New Brick - Copy - Copy - Copy
+	+ROT 180
+184.75 -35 32.25 1 21.75 12.75 0 0.5882353 1 1
+	+NAME kill - Copy
+
+>CAMPOS -131.4129 66.84082 3.462397 297.9998 44.99992
+>SUNPOS 50 330

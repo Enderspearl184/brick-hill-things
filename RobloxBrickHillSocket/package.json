@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "phin": "^3.6.1",
+    "smart-buffer": "^4.2.0"
+  }
+}

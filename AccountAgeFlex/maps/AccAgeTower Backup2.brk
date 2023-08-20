@@ -1,0 +1,656 @@
+B R I C K  W O R K S H O P  V0.2.0.0
+
+0 0 0
+0.14 0.51 0.20 1
+0.49 0.70 0.90
+245
+800
+
+2 -12 0 43 43 1 0.87 0 0.05 1
+	+NAME brick0
+2 30 1 43 1 17 0.87 0 0.05 1
+	+NAME brick1
+2 -12 1 43 1 17 0.87 0 0.05 1
+	+NAME brick1 - Copy
+44 -11 1 1 41 17 0.87 0 0.05 1
+	+NAME brick3
+2 -11 18 35 41 1 0.91 0.39 0.09 1
+	+NAME brick0 - Copy
+44 -12 36 1 42 17 1 0.77 0 1
+	+NAME brick0 - Copy - Copy
+37 -11 18 7 18 1 0.91 0.39 0.09 1
+	+NAME brick0 - Copy - Copy - Copy
+2 30 36 43 1 17 1 0.77 0 1
+	+NAME brick1 - Copy
+2 -12 18 43 1 18 0.91 0.39 0.09 1
+	+NAME brick1 - Copy - Copy
+2 -11 36 35 41 1 1 0.77 0 1
+	+NAME brick0 - Copy - Copy
+2 -12 36 42 1 17 1 0.77 0 1
+	+NAME brick1 - Copy - Copy - Copy
+44 -11 18 1 41 18 0.91 0.39 0.09 1
+	+NAME brick0 - Copy - Copy - Copy
+2 30 18 43 1 18 0.91 0.39 0.09 1
+	+NAME brick1 - Copy - Copy
+37 -11 36 7 18 1 1 0.77 0 1
+	+NAME brick0 - Copy - Copy - Copy - Copy
+2 -11 70 42 41 1 0 0.59 0.14 1
+	+NAME brick0 - Copy - Copy - Copy
+2 -12 53 42 1 18 0 0.59 0.14 1
+	+NAME brick1 - Copy - Copy - Copy - Copy
+2 30 53 43 1 18 0 0.59 0.14 1
+	+NAME brick1 - Copy - Copy
+37 -11 53 7 18 1 0 0.59 0.14 1
+	+NAME brick0 - Copy - Copy - Copy - Copy - Copy
+44 -12 53 1 42 18 0 0.59 0.14 1
+	+NAME brick0 - Copy - Copy - Copy
+2 -11 19 1 42 52 0.87 0 0.05 0
+	+NAME brick21
+37 2 1 7 4 2 0.87 0 0.05 1
+	+NAME brick27
+37 6 1 7 4 4 0.87 0 0.05 1
+	+NAME brick27 - Copy
+37 10 1 7 4 6 0.87 0 0.05 1
+	+NAME brick27 - Copy - Copy
+37 14 1 7 4 8 0.87 0 0.05 1
+	+NAME brick27 - Copy - Copy - Copy
+37 18 1 7 4 10 0.87 0 0.05 1
+	+NAME brick27 - Copy - Copy - Copy - Copy
+37 22 1 7 4 12 0.87 0 0.05 1
+	+NAME brick27 - Copy - Copy - Copy - Copy - Copy
+37 26 1 7 4 14 0.87 0 0.05 1
+	+NAME brick27 - Copy - Copy - Copy - Copy - Copy - Copy
+37 2 19 7 4 2 0.91 0.39 0.09 1
+	+NAME brick27 - Copy
+37 6 19 7 4 4 0.91 0.39 0.09 1
+	+NAME brick27 - Copy - Copy
+37 10 20 7 4 5 0.91 0.39 0.09 1
+	+NAME brick27 - Copy - Copy - Copy
+37 14 21 7 4 6 0.91 0.39 0.09 1
+	+NAME brick27 - Copy - Copy - Copy - Copy
+37 22 25 7 4 6 0.91 0.39 0.09 1
+	+NAME brick27 - Copy - Copy - Copy - Copy - Copy - Copy
+37 2 37 7 4 2 1 0.77 0 1
+	+NAME brick27 - Copy - Copy
+37 6 37 7 4 4 1 0.77 0 1
+	+NAME brick27 - Copy - Copy - Copy
+37 10 37 7 4 6 1 0.77 0 1
+	+NAME brick27 - Copy - Copy - Copy - Copy
+37 14 39 7 4 6 1 0.77 0 1
+	+NAME brick27 - Copy - Copy - Copy - Copy - Copy
+37 18 23 7 4 6 0.91 0.39 0.09 1
+	+NAME brick27 - Copy - Copy - Copy - Copy - Copy - Copy
+37 26 27 7 4 6 0.91 0.39 0.09 1
+	+NAME brick27 - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+37 18 41 7 4 6 1 0.77 0 1
+	+NAME brick27 - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+37 22 43 7 4 6 1 0.77 0 1
+	+NAME brick27 - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+37 26 45 7 4 6 1 0.77 0 1
+	+NAME brick27 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+2 31 0 19 19 1 0.87 0.22 0.55 1
+	+NAME brick0 - Copy
+2 31 1 19 1 18 0.87 0.22 0.55 1
+	+NAME brick0 - Copy - Copy
+20 31 1 1 18 18 0.87 0.22 0.55 1
+	+NAME brick0 - Copy - Copy - Copy
+2 32 18 18 17 1 0.87 0.22 0.55 1
+	+NAME brick0 - Copy - Copy
+2 49 1 19 1 18 0.87 0.22 0.55 1
+	+NAME brick0 - Copy - Copy - Copy
+2 50 0 19 19 1 0 0.64 0.86 1
+	+NAME brick0 - Copy - Copy
+2 50 1 19 1 18 0 0.64 0.86 1
+	+NAME brick0 - Copy - Copy - Copy - Copy
+20 51 1 1 18 18 0 0.64 0.86 1
+	+NAME brick0 - Copy - Copy - Copy - Copy
+2 68 1 19 1 18 0 0.64 0.86 1
+	+NAME brick0 - Copy - Copy - Copy - Copy - Copy
+2 51 18 18 17 1 0 0.64 0.86 1
+	+NAME brick0 - Copy - Copy - Copy
+2 -11 -1646 35 41 1 0 0.59 0.14 1
+	+NAME brick0 - Copy - Copy - Copy - Copy
+2 -11 53 35 41 1 0 0.59 0.14 1
+	+NAME brick0 - Copy - Copy - Copy - Copy
+2 31 0 19 19 18 0.87 0 0.05 0
+	+NAME MemberBrick
+2 50 0 19 19 18 0 0.48 0.16 0
+	+NAME AdminBrick
+2 -11 53 43 41 18 0 0.48 0.16 0
+	+NAME 2016Brick
+2 -11 36 43 41 18 0 0.48 0.16 0
+	+NAME 2017Brick
+2 -11 18 43 41 18 0 0.48 0.16 0
+	+NAME 2018Brick
+2 -11 0 43 41 18 0 0.48 0.16 0
+	+NAME 2019Brick
+-108 -27 0 64 64 1.20 0 0.59 0.14 1
+	+NAME DarkGreen
+	+ROT 90
+-44 -10 0 2 6 2 0.30 0.32 0.34 1
+	+NAME Darkgrey
+	+ROT 180
+-42 -10 0 2 6 1 0.30 0.32 0.34 1
+	+NAME Darkgrey
+	+ROT 180
+-46 -10 0 2 6 3 0.30 0.32 0.34 1
+	+NAME Darkgrey
+	+ROT 180
+-50 -10 0 4 6 4 0.30 0.32 0.34 1
+	+NAME Darkgrey
+	+ROT 90
+-61 -23 1 13 2 19 0.85 0.73 0.48 1
+	+NAME BrickYellow
+	+ROT 180
+-69 -23 1 8 2 5 0.85 0.73 0.48 1
+	+NAME BrickYellow
+	+ROT 180
+-69 -24 6 8 3 1 0.36 0.11 0.05 1
+	+NAME DarkOrange
+	+ROT 270
+-62 -23 7 1 2 5 0.36 0.11 0.05 1
+	+NAME DarkOrange
+	+ROT 270
+-69 -23 12 1 2 8 0.85 0.73 0.48 1
+	+NAME BrickYellow
+	+ROT 180
+-63 -23 12 1 2 3 0.36 0.11 0.05 1
+	+NAME DarkOrange
+	+ROT 270
+-63 -23 15 1 2 5 0.85 0.73 0.48 1
+	+NAME BrickYellow
+	+ROT 180
+-67 -23 15 4 2 1 0.36 0.11 0.05 1
+	+NAME DarkOrange
+	+ROT 180
+-69 -23 7 1 2 5 0.36 0.11 0.05 1
+	+NAME DarkOrange
+	+ROT 270
+-90 -23 12 1 2 3 0.36 0.11 0.05 1
+	+NAME DarkOrange
+	+ROT 180
+-67 -23 16 4 2 4 0.85 0.73 0.48 1
+	+NAME BrickYellow
+	+ROT 180
+-68 -23 15 1 2 5 0.85 0.73 0.48 1
+	+NAME BrickYellow
+	+ROT 270
+-83 -23 1 14 2 19 0.85 0.73 0.48 1
+	+NAME BrickYellow
+	+ROT 180
+-91 -24 6 8 3 1 0.36 0.11 0.05 1
+	+NAME DarkOrange
+	+ROT 270
+-84 -23 7 1 2 5 0.36 0.11 0.05 1
+	+NAME DarkOrange
+	+ROT 180
+-91 -23 1 8 2 5 0.85 0.73 0.48 1
+	+NAME BrickYellow
+	+ROT 180
+-91 -23 7 1 2 5 0.36 0.11 0.05 1
+	+NAME DarkOrange
+	+ROT 180
+-68 -23 12 1 2 3 0.36 0.11 0.05 1
+	+NAME DarkOrange
+	+ROT 180
+-85 -23 12 1 2 3 0.36 0.11 0.05 1
+	+NAME DarkOrange
+	+ROT 180
+-89 -23 15 4 2 1 0.36 0.11 0.05 1
+	+NAME DarkOrange
+	+ROT 180
+-84 28 12 1 2 8 0.85 0.73 0.48 1
+	+NAME BrickYellow
+	+ROT 180
+-85 -23 15 1 2 5 0.85 0.73 0.48 1
+	+NAME BrickYellow
+	+ROT 180
+-89 -23 16 4 2 4 0.85 0.73 0.48 1
+	+NAME BrickYellow
+	+ROT 180
+-90 -23 15 1 2 5 0.85 0.73 0.48 1
+	+NAME BrickYellow
+	+ROT 90
+-91 -23 12 1 2 8 0.85 0.73 0.48 1
+	+NAME BrickYellow
+	+ROT 180
+-104 -23 1 13 2 19 0.85 0.73 0.48 1
+	+NAME BrickYellow
+	+ROT 180
+-62 -23 12 1 2 8 0.85 0.73 0.48 1
+	+NAME BrickYellow
+	+ROT 180
+-104 -21 0 2 10 21 0.85 0.73 0.48 1
+	+NAME BrickYellow
+	+ROT 90
+-104 -9 15 2 4 1 0.36 0.11 0.05 1
+	+NAME DarkOrange
+	+ROT 90
+-104 -11 7 2 1 5 0.36 0.11 0.05 1
+	+NAME DarkOrange
+	+ROT 90
+-104 -11 12 2 1 14 0.85 0.73 0.48 1
+	+NAME BrickYellow
+	+ROT 90
+-105 -11 6 3 8 1 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy
+	+ROT 90
+-104 -4 7 2 1 5 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy
+	+ROT 90
+-104 -5 12 2 1 3 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy
+	+ROT 90
+-104 -10 12 2 1 3 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy
+	+ROT 90
+-104 -10 15 2 1 11 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy
+	+ROT 90
+-104 -9 16 2 4 12 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy
+	+ROT 90
+-104 -11 1 2 8 5 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy
+	+ROT 90
+-104 -3 0 2 14 31 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy
+	+ROT 90
+-104 -5 15 2 1 14 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy
+	+ROT 90
+-104 -4 12 2 1 18 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy
+	+ROT 90
+-105 11 6 3 8 1 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy - Copy
+	+ROT 90
+-104 11 7 2 1 5 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy - Copy
+	+ROT 90
+-104 12 12 2 1 3 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy - Copy
+	+ROT 90
+-104 11 12 2 1 17 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy
+	+ROT 90
+-104 12 15 2 1 13 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy
+	+ROT 90
+-104 13 15 2 4 1 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy
+	+ROT 90
+-104 17 12 2 1 3 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy - Copy
+	+ROT 90
+-104 18 7 2 1 5 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy
+	+ROT 90
+-104 11 1 2 8 5 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy - Copy
+	+ROT 90
+-104 18 12 2 1 13 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy
+	+ROT 90
+-104 17 15 2 1 11 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy - Copy
+	+ROT 90
+-104 13 16 2 4 12 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy
+	+ROT 90
+-104 19 0 2 10 21 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy
+	+ROT 90
+-104 28 1 13 2 19 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy
+	+ROT 180
+-91 28 1 8 2 5 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy
+	+ROT 180
+-91 28 6 8 3 1 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy
+	+ROT 270
+-91 28 7 1 2 5 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy
+	+ROT 180
+-90 28 12 1 2 3 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy
+	+ROT 180
+-89 28 15 4 2 1 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy
+	+ROT 180
+-84 28 7 1 2 5 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy - Copy
+	+ROT 180
+-85 28 12 1 2 3 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy - Copy
+	+ROT 180
+-84 -23 12 1 2 8 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy
+	+ROT 180
+-91 28 12 1 2 8 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy
+	+ROT 180
+-90 28 15 1 2 5 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy
+	+ROT 90
+-89 28 16 4 2 4 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy
+	+ROT 180
+-85 28 15 1 2 5 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy
+	+ROT 90
+-83 28 1 14 2 19 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy
+	+ROT 180
+-69 28 6 8 3 1 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy - Copy
+	+ROT 270
+-69 28 7 1 2 5 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy - Copy
+	+ROT 180
+-68 28 12 1 2 3 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy - Copy
+	+ROT 180
+-67 28 15 4 2 1 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy - Copy
+	+ROT 180
+-63 28 12 1 2 3 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy - Copy - Copy
+	+ROT 180
+-62 28 7 1 2 5 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy - Copy - Copy
+	+ROT 180
+-69 28 1 8 2 5 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy
+	+ROT 180
+-69 28 12 1 2 8 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy
+	+ROT 180
+-68 28 15 1 2 5 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy
+	+ROT 90
+-67 28 16 4 2 4 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy
+	+ROT 180
+-62 28 12 1 2 8 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy
+	+ROT 180
+-63 28 15 1 2 5 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy
+	+ROT 90
+-61 28 1 13 2 19 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy
+	+ROT 180
+-50 -21 0 2 10 21 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy
+	+ROT 90
+-50 -11 1 2 1 2 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy
+	+ROT 90
+-50 -4 1 2 1 2 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy
+	+ROT 90
+-50 -4 3 2 1 9 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy - Copy
+	+ROT 90
+-50 -11 3 2 1 9 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy - Copy - Copy
+	+ROT 90
+-50 -10 12 2 1 3 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy - Copy
+	+ROT 90
+-50 -5 12 2 1 3 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy - Copy - Copy
+	+ROT 90
+-50 -9 15 2 4 1 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy
+	+ROT 90
+-50 -11 12 2 1 14 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy
+	+ROT 90
+-50 -10 15 2 1 11 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy
+	+ROT 90
+-50 -9 16 2 4 12 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy
+	+ROT 90
+-50 -5 15 2 1 14 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy
+	+ROT 90
+-50 -4 12 2 1 17 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy
+	+ROT 90
+-50 -3 0 2 14 31 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy
+	+ROT 90
+-50 11 6 3 8 1 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy - Copy - Copy
+	+ROT 90
+-50 11 7 2 1 5 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy - Copy - Copy
+	+ROT 90
+-50 12 12 2 1 3 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy - Copy - Copy
+	+ROT 90
+-50 13 15 2 4 1 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy - Copy
+	+ROT 90
+-50 17 12 2 1 3 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy - Copy - Copy - Copy
+	+ROT 90
+-50 18 7 2 1 5 0.36 0.11 0.05 1
+	+NAME DarkOrange - Copy - Copy - Copy - Copy
+	+ROT 90
+-50 11 1 2 8 5 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-103 -8 18 54 2 2 0.19 0.06 0.02 1
+	+NAME ReddishBrown
+	+ROT 90
+-103 14 18 54 2 2 0.19 0.06 0.02 1
+	+NAME ReddishBrown
+	+ROT 90
+-102 -21 1 52 49 3 0 0.64 0.86 1
+	+NAME MediumBlue
+	+ROT 90
+-106 -25 19 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143
+	+ROT 90
+-106 26 19 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy
+	+ROT 90
+-106 -23 20.20 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy
+	+ROT 90
+-106 -21 21.40 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy
+	+ROT 90
+-106 -19 22.60 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy - Copy
+	+ROT 90
+-106 -17 23.60 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy - Copy - Copy
+	+ROT 90
+-106 -15 24.80 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-106 -13 26 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-106 -11 27.20 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-106 -9 28.40 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-106 -7 29.60 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-106 24 20.20 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy
+	+ROT 90
+-106 22 21.40 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy - Copy
+	+ROT 90
+-106 20 22.60 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy - Copy - Copy
+	+ROT 90
+-106 16 24.80 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-106 18 23.60 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-106 14 26 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-106 12 27.20 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-106 10 28.40 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-106 8 29.60 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-106 -5 30.80 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-106 6 30.80 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-106 -3 32 60 7 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-106 -1 33.20 60 9 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-106 4 32 60 6 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-106 1 34.20 60 5 1.20 0.87 0 0.05 1
+	+NAME brick143 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-104 1 31 2 5 3 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy
+	+ROT 90
+-50 -14 21 2 3 4 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy
+	+ROT 90
+-50 -15 21 2 1 2 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy
+	+ROT 90
+-50 19 0 2 10 21 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy
+	+ROT 90
+-50 11 12 2 1 17 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy
+	+ROT 90
+-50 23 21 2 1 2 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy - Copy
+	+ROT 90
+-50 -16 21 2 1 2 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy - Copy
+	+ROT 90
+-50 22 21 2 1 2 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-50 -17 21 2 1 2 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-50 21 21 2 1 2 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy - Copy
+	+ROT 90
+-50 19 21 2 3 3 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy
+	+ROT 90
+-50 18 12 2 1 14 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy
+	+ROT 90
+-50 17 15 2 1 11 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy
+	+ROT 90
+-50 13 16 2 4 12 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy - Copy
+	+ROT 90
+-50 12 15 2 1 14 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy - Copy
+	+ROT 90
+-104 22 21 2 3 1 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy
+	+ROT 90
+-104 19 21 2 3 3 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy - Copy
+	+ROT 90
+-104 -14 21 2 3 4 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy
+	+ROT 90
+-104 -16 21 2 2 3 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy
+	+ROT 90
+-57 14 28 2 8 16 0.85 0.73 0.48 1
+	+NAME BrickYellow
+	+ROT 90
+-63 14 28 2 8 16 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy
+	+ROT 90
+-63 20 26 8 2 2 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy
+	+ROT 90
+-61 20 28 4 2 16 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy
+	+ROT 90
+-61 14 28 4 2 16 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy
+	+ROT 90
+-63 14 44 8 2 1 0.46 0.48 0.49 1
+	+NAME SandRed
+	+ROT 90
+-63 20 44 8 2 1 0.46 0.48 0.49 1
+	+NAME SandRed - Copy
+	+ROT 90
+-57 16 44 2 4 1 0.46 0.48 0.49 1
+	+NAME SandRed - Copy
+	+ROT 90
+-63 16 44 2 4 1 0.46 0.48 0.49 1
+	+NAME SandRed - Copy - Copy
+	+ROT 90
+-61 16 28 4 4 4 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy
+	+ROT 90
+-63 18 26 8 2 2 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy
+	+ROT 90
+-50 1 31 2 5 3 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy - Copy
+	+ROT 90
+-104 -17 21 2 2 2 0.85 0.73 0.48 1
+	+NAME BrickYellow - Copy - Copy - Copy
+	+ROT 90
+-90 40 -1 4 4 6 0.87 0 0.05 1
+	+NAME brick168
+	+ROT 90
+-94 40 -1 4 4 12 0.87 0 0.05 1
+	+NAME brick168 - Copy
+	+ROT 90
+-98 40 -1 4 4 17 0.87 0 0.05 1
+	+NAME brick229
+	+ROT 90
+-24 3 -3 4 4 4 0 0.48 0.16 1
+	+NAME Spawn
+	+ROT 90
+	+SHAPE spawnpoint
+
+>TEAM Owner
+	+COLOR 0 0.64 0.86 
+>TEAM 2016
+	+COLOR 0 0.57 0.28 
+>TEAM 2017
+	+COLOR 0.58 0.73 0.04 
+>TEAM 2018
+	+COLOR 1.00 0.77 0 
+>TEAM 2019
+	+COLOR 0.96 0.61 0 
+>TEAM 2020
+	+COLOR 0.87 0 0.05 

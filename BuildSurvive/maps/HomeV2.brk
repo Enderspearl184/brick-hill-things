@@ -1,0 +1,147 @@
+B R I C K  W O R K S H O P  V0.2.0.0
+
+0 0 0
+0.14 0.14 0.14 1
+0 0 0
+500
+600
+
+75 75 0 100 100 1 0.09 0.09 0.09 1
+	+NAME Plate1
+-175 75 0 100 100 1 0.09 0.09 0.09 1
+	+NAME Plate2
+-175 -175 0 100 100 1 0.09 0.09 0.09 1
+	+NAME Plate3
+75 -175 0 100 100 1 0.09 0.09 0.09 1
+	+NAME Plate4
+75 -50 0 100 100 1 0.09 0.09 0.09 1
+	+NAME Plate5
+-50 -50 0 100 100 1 0.09 0.09 0.09 1
+	+NAME Plate6
+-175 -50 0 100 100 1 0.09 0.09 0.09 1
+	+NAME Plate7
+-50 -175 0 100 100 1 0.09 0.09 0.09 1
+	+NAME Plate8
+-50 75 0 100 100 1 0.09 0.09 0.09 1
+	+NAME Plate9
+-61.25 -64 -0.5 1 1 1 0.5 0.5 0.5 1
+	+NAME ZombieSpawner
+-250 -250 -1 500 500 1 0.09 0.09 0.09 0
+	+NAME BaseplateLol
+-61.25 -64 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+-59.25 64.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+1 64 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+63.25 65.75 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+64.25 2.75 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+64.75 -64.25 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+66.25 -127.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+66.25 -127.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+-57.75 -127 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+-62.25 -202 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+-133.5 -198.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+-199.75 -199.75 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+-203.25 -132.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+-196.5 -68.25 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+-200.75 -2.75 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+-120 -66.25 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+-119.5 62.75 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+-181.5 60.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+-188.25 131.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+-180.75 198.75 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+-117 198.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+-59.5 200.75 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+-58 129 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+-12.25 195 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+64.5 191.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+67.25 120.25 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+131.75 186.75 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+195 182.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+201 116 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+203 58.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+130.25 57.75 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+210 -5.75 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+207 -69 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+124 -69.25 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+204 -134 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+199.5 -191.25 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+124.75 -193.25 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+58 -194.25 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION
+-8.75 -196.5 -0.5 1 1 1 0.5 0.5 0.5 0
+	+NAME ZombieSpawner
+	+NOCOLLISION

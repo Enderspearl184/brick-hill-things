@@ -1,0 +1,5 @@
+I've created a command that lets you control players. I'm probably not going to use this but at least it's probably going to be fun to use.
+
+The command is /control player
+
+To stop controlling a player or stop being controlled just do /control

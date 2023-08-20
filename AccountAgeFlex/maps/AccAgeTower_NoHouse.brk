@@ -1,0 +1,127 @@
+B R I C K  W O R K S H O P  V0.2.0.0
+
+0 0 0
+0.14 0.51 0.20 1
+0.49 0.70 0.90
+245
+800
+
+2 -12 0 43 43 1 0.87 0 0.05 1
+	+NAME brick0
+2 30 1 43 1 17 0.87 0 0.05 1
+	+NAME brick1
+2 -12 1 43 1 17 0.87 0 0.05 1
+	+NAME brick1 - Copy
+44 -11 1 1 41 17 0.87 0 0.05 1
+	+NAME brick3
+2 -11 18 35 41 1 0.91 0.39 0.09 1
+	+NAME brick0 - Copy
+44 -12 36 1 42 17 1 0.77 0 1
+	+NAME brick0 - Copy - Copy
+37 -11 18 7 18 1 0.91 0.39 0.09 1
+	+NAME brick0 - Copy - Copy - Copy
+2 30 36 43 1 17 1 0.77 0 1
+	+NAME brick1 - Copy
+2 -12 18 43 1 18 0.91 0.39 0.09 1
+	+NAME brick1 - Copy - Copy
+2 -11 36 35 41 1 1 0.77 0 1
+	+NAME brick0 - Copy - Copy
+2 -12 36 42 1 17 1 0.77 0 1
+	+NAME brick1 - Copy - Copy - Copy
+44 -11 18 1 41 18 0.91 0.39 0.09 1
+	+NAME brick0 - Copy - Copy - Copy
+2 30 18 43 1 18 0.91 0.39 0.09 1
+	+NAME brick1 - Copy - Copy
+37 -11 36 7 18 1 1 0.77 0 1
+	+NAME brick0 - Copy - Copy - Copy - Copy
+2 -11 70 42 41 1 0 0.59 0.14 1
+	+NAME brick0 - Copy - Copy - Copy
+2 -12 53 42 1 18 0 0.59 0.14 1
+	+NAME brick1 - Copy - Copy - Copy - Copy
+2 30 53 43 1 18 0 0.59 0.14 1
+	+NAME brick1 - Copy - Copy
+37 -11 53 7 18 1 0 0.59 0.14 1
+	+NAME brick0 - Copy - Copy - Copy - Copy - Copy
+44 -12 53 1 42 18 0 0.59 0.14 1
+	+NAME brick0 - Copy - Copy - Copy
+2 -11 19 1 42 52 0.87 0 0.05 0
+	+NAME brick21
+37 2 1 7 4 2 0.87 0 0.05 1
+	+NAME brick27
+37 6 1 7 4 4 0.87 0 0.05 1
+	+NAME brick27 - Copy
+37 10 1 7 4 6 0.87 0 0.05 1
+	+NAME brick27 - Copy - Copy
+37 14 1 7 4 8 0.87 0 0.05 1
+	+NAME brick27 - Copy - Copy - Copy
+37 18 1 7 4 10 0.87 0 0.05 1
+	+NAME brick27 - Copy - Copy - Copy - Copy
+37 22 1 7 4 12 0.87 0 0.05 1
+	+NAME brick27 - Copy - Copy - Copy - Copy - Copy
+37 26 1 7 4 14 0.87 0 0.05 1
+	+NAME brick27 - Copy - Copy - Copy - Copy - Copy - Copy
+37 2 19 7 4 2 0.91 0.39 0.09 1
+	+NAME brick27 - Copy
+37 6 19 7 4 4 0.91 0.39 0.09 1
+	+NAME brick27 - Copy - Copy
+37 10 20 7 4 5 0.91 0.39 0.09 1
+	+NAME brick27 - Copy - Copy - Copy
+37 14 21 7 4 6 0.91 0.39 0.09 1
+	+NAME brick27 - Copy - Copy - Copy - Copy
+37 22 25 7 4 6 0.91 0.39 0.09 1
+	+NAME brick27 - Copy - Copy - Copy - Copy - Copy - Copy
+37 2 37 7 4 2 1 0.77 0 1
+	+NAME brick27 - Copy - Copy
+37 6 37 7 4 4 1 0.77 0 1
+	+NAME brick27 - Copy - Copy - Copy
+37 10 37 7 4 6 1 0.77 0 1
+	+NAME brick27 - Copy - Copy - Copy - Copy
+37 14 39 7 4 6 1 0.77 0 1
+	+NAME brick27 - Copy - Copy - Copy - Copy - Copy
+37 18 23 7 4 6 0.91 0.39 0.09 1
+	+NAME brick27 - Copy - Copy - Copy - Copy - Copy - Copy
+37 26 27 7 4 6 0.91 0.39 0.09 1
+	+NAME brick27 - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+37 18 41 7 4 6 1 0.77 0 1
+	+NAME brick27 - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+37 22 43 7 4 6 1 0.77 0 1
+	+NAME brick27 - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+37 26 45 7 4 6 1 0.77 0 1
+	+NAME brick27 - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+2 31 0 19 19 1 0.87 0.22 0.55 1
+	+NAME brick0 - Copy
+2 31 1 19 1 18 0.87 0.22 0.55 1
+	+NAME brick0 - Copy - Copy
+20 31 1 1 18 18 0.87 0.22 0.55 1
+	+NAME brick0 - Copy - Copy - Copy
+2 32 18 18 17 1 0.87 0.22 0.55 1
+	+NAME brick0 - Copy - Copy
+2 49 1 19 1 18 0.87 0.22 0.55 1
+	+NAME brick0 - Copy - Copy - Copy
+2 50 0 19 19 1 0 0.64 0.86 1
+	+NAME brick0 - Copy - Copy
+2 50 1 19 1 18 0 0.64 0.86 1
+	+NAME brick0 - Copy - Copy - Copy - Copy
+20 51 1 1 18 18 0 0.64 0.86 1
+	+NAME brick0 - Copy - Copy - Copy - Copy
+2 68 1 19 1 18 0 0.64 0.86 1
+	+NAME brick0 - Copy - Copy - Copy - Copy - Copy
+2 51 18 18 17 1 0 0.64 0.86 1
+	+NAME brick0 - Copy - Copy - Copy
+2 -11 -1646 35 41 1 0 0.59 0.14 1
+	+NAME brick0 - Copy - Copy - Copy - Copy
+2 -11 53 35 41 1 0 0.59 0.14 1
+	+NAME brick0 - Copy - Copy - Copy - Copy
+2 31 0 19 19 18 0.87 0 0.05 0
+	+NAME MemberBrick
+2 50 0 19 19 18 0 0.48 0.16 0
+	+NAME AdminBrick
+2 -11 53 43 41 18 0 0.48 0.16 0
+	+NAME 2016Brick
+2 -11 36 43 41 18 0 0.48 0.16 0
+	+NAME 2017Brick
+2 -11 18 43 41 18 0 0.48 0.16 0
+	+NAME 2018Brick
+2 -11 0 43 41 18 0 0.48 0.16 0
+	+NAME 2019Brick
+

@@ -1,0 +1,15 @@
+[Update: 2020-08-08]
++ Completely rewrote the scripts for this lol. I think it fixed the collision but idk
+- Probably added a bunch of bugs
+- Saving MAY mess up
++ If an old save (or any save) doesn't work properly message me and I'll try to help
+
+Use the number keys to select a tool, and click to use them. Chat "/help" for a list of commands you might find useful.
+
+Players who own the /model T-Shirt can use the command (you guessed it, /model) to change the model of bricks they placed to the hats, tools, and heads. The T-Shirt can be found at:
+https://www.brick-hill.com/shop/167241
+
+Players who own the Invisible T-Shirt of Game Breaking will get a doubled brick limit. That T-Shirt can be found at:
+https://www.brick-hill.com/shop/147324
+
+This uses a modified version of SmartLion's bbtools script.
