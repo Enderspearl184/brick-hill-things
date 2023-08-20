@@ -1,0 +1,22 @@
+{
+  "name": "node-hill-server",
+  "version": "1.0.0",
+  "description": "A server used for hosting Brick Hill legacy games",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Meta_Data/node-hill.git"
+  },
+  "author": "Meta_data",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/Meta_Data/node-hill/issues"
+  },
+  "homepage": "https://gitlab.com/Meta_Data/node-hill#readme",
+  "dependencies": {
+    "node-hill": "^8.3.3"
+  }
+}

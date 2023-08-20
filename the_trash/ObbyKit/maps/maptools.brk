@@ -1,0 +1,27 @@
+B R I C K  W O R K S H O P  V0.2.0.0
+
+0 0 0
+0.14 0.51 0.2 1
+0.49 0.7 0.9
+57
+500
+
+1 -21.75 -0.25 4 4 0.5 1 1 1 1
+	+NAME Checkpoint1
+	+SHAPE spawnpoint
+	+NOCOLLISION
+-27.25 10.75 -0.5 6 6 1 0 0.38 1 1
+	+NAME dns
+-26.25 11.75 0.5 4 4 0.5 1 1 0.99 1
+	+NAME Checkpoint2
+-26.25 18.5 0.5 4 4 0.5 1 1 0.99 1
+	+NAME Checkpoint3
+-27.25 17.5 -0.5 6 6 1 0 0.38 1 1
+	+NAME dns
+-29.25 -20.25 0 7 7 1 1 1 1 1
+	+NAME tpfrom1
+-29.25 -29 0 7 7 1 0.99 1 0.9990333 1
+	+NAME tpto1
+-26.75 -5.25 -0.5 4.75 7 1 1 0.1583333 0 1
+	+NAME kill
+	+NOCOLLISION
